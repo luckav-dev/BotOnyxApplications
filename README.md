@@ -46,7 +46,6 @@ ZoomBoost isn't just another Discord bot – it's a complete business solution d
 - **Rich Embeds** - Beautiful, informative log messages
 - **Advanced Filtering** - Ignore bots, webhooks, and system messages
 - **Audit Trail** - Complete history of server changes
-
 </td>
 <td width="50%">
 
