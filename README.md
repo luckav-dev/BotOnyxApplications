@@ -4,11 +4,11 @@
 
 ### *The Ultimate Professional Discord Bot Solution*
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7N5UUf6c)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ms7vuNJQsq)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/yourusername/zoomboost-bot?style=for-the-badge)](https://github.com/yourusername/zoomboost-bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/zoomboost-bot?style=for-the-badge)](https://github.com/yourusername/zoomboost-bot/network/members)
+[![Stars](https://img.shields.io/github/stars/yourusername/zoomboost-bot?style=for-the-badge)](https://github.com/luckav-dev/BotTickets)
+[![Forks](https://img.shields.io/github/forks/yourusername/zoomboost-bot?style=for-the-badge)](https://github.com/luckav-dev/BotTickets/network/members)
 
 *Transform your Discord server into a professional business hub with our enterprise-grade bot system*
 
@@ -79,7 +79,7 @@ ZoomBoost isn't just another Discord bot – it's a complete business solution d
 ├── 📂 commands/
 │   ├── 📂 basic/          # Essential moderation commands
 │   └── 📂 advanced/       # Premium features and panels
-├── 📂 events/             # Discord event handlers
+├── 📂 events/             #  event handlers
 ├── 📂 utils/              # Core system utilities
 ├── 📂 database/           # Data storage and backups
 ├── 📂 logs/               # System and error logging
@@ -95,7 +95,7 @@ ZoomBoost isn't just another Discord bot – it's a complete business solution d
 | Component | Description | Key Features |
 |-----------|-------------|-------------|
 | **Ticket Manager** | Advanced ticket system | Custom forms, auto-close, transcripts |
-| **Discord Logger** | Comprehensive logging | Real-time events, rich embeds, filtering |
+| ** Logger** | Comprehensive logging | Real-time events, rich embeds, filtering |
 | **Permission Checker** | Role-based access | Staff/admin controls, command restrictions |
 | **Embed Builder** | Dynamic message creation | Branded embeds, custom colors, templates |
 | **Giveaway Manager** | Contest automation | Scheduled draws, winner selection, notifications |
@@ -218,9 +218,9 @@ Monitor everything that matters:
 
 ### 🛒 **Ready to Transform Your Server?**
 
-**Get ZoomBoost today and experience the difference professional Discord bot management makes.**
+**Get ZoomBoost today and experience the difference professional  bot management makes.**
 
-[![Join Discord](https://img.shields.io/badge/💬_Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7N5UUf6c)
+[![Join Discord](https://img.shields.io/badge/💬_Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ms7vuNJQsq)
 
 **💰 Competitive Pricing • 🚀 Instant Setup • 🛠️ Full Support**
 
@@ -251,7 +251,7 @@ Monitor everything that matters:
 
 **Join thousands of satisfied customers using ZoomBoost**
 
-[![Discord Members](https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&logo=discord&logoColor=white&label=Community)](https://discord.gg/7N5UUf6c)
+[![Discord Members](https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&logo=discord&logoColor=white&label=Community)](https://discord.gg/ms7vuNJQsq)
 
 </div>
 
@@ -265,10 +265,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [XoXo Pistol](https://discord.gg/7N5UUf6c)**
+**Made with ❤️ by [XoXo Pistol](https://discord.gg/ms7vuNJQsq)**
 
 *Transforming Discord servers one bot at a time*
 
-[![Discord](https://img.shields.io/badge/Contact_Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7N5UUf6c)
+[![Discord](https://img.shields.io/badge/Contact_Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ms7vuNJQsq)
 
 </div>
