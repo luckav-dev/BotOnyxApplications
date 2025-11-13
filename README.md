@@ -400,21 +400,6 @@ ZoomBoost uses a custom emoji system. Edit `emojis.json` to customize:
     "ticket": "🎫"
 }
 ```
-
-### Color Schemes
-
-Modify container colors in configuration files:
-
-```json
-{
-    "colors": {
-        "primary": "#5865F2",
-        "success": "#57F287",
-        "error": "#ED4245"
-    }
-}
-```
-
 ---
 
 ## 🔒 Security & Privacy
@@ -558,3 +543,4 @@ Special thanks to:
 © 2025 Onyx Applications. All rights reserved.
 
 </div>
+
