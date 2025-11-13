@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 ZoomBoost - Advanced Discord Bot
+# 🚀 Onyx Applications - Advanced Discord Bot
 
 ### *Professional All-in-One Discord Management Solution*
 
@@ -19,9 +19,9 @@
 
 ## 📋 Overview
 
-**ZoomBoost** is a premium, feature-rich Discord bot designed for professional server management. Built with Discord.js v14 and leveraging the latest Discord features including **Container Components V2**, ZoomBoost provides an all-in-one solution for community management, moderation, engagement, and monetization.
+**Onyx Applications** is a premium, feature-rich Discord bot designed for professional server management. Built with Discord.js v14 and leveraging the latest Discord features including **Container Components V2**, Onyx Applications provides an all-in-one solution for community management, moderation, engagement, and monetization.
 
-### 🎯 Why ZoomBoost?
+### 🎯 Why Onyx Applications?
 
 - ✨ **Modern UI/UX** - Beautiful container-based interfaces with advanced Discord components
 - 🔧 **Fully Configurable** - Extensive configuration system accessible entirely through Discord
@@ -151,7 +151,7 @@
 
 ## 🔧 Requirements
 
-Before installing ZoomBoost, ensure you have the following:
+Before installing Onyx Applications, ensure you have the following:
 
 - **Node.js** - Version 16.0.0 or higher ([Download](https://nodejs.org/))
 - **Discord Bot** - A Discord bot application with the following:
@@ -165,7 +165,7 @@ Before installing ZoomBoost, ensure you have the following:
 
 ## 📦 Installation
 
-### 1. Purchase ZoomBoost
+### 1. Purchase Onyx Applications
 
 Contact us to purchase your license:
 - **Discord Server**: [Join Onyx Applications](https://discord.gg/kSQsrkbxU5)
@@ -173,7 +173,7 @@ Contact us to purchase your license:
 
 ### 2. Extract Files
 
-After purchase, extract the ZoomBoost files to your desired directory.
+After purchase, extract the Onyx Applications files to your desired directory.
 
 ### 3. Install Dependencies
 
@@ -353,7 +353,7 @@ npm run dev
 ## 🗂️ File Structure
 
 ```
-ZoomBoost/
+Onyx Applications/
 ├── commands/               # Slash command files
 │   ├── basic/             # Basic moderation commands
 │   ├── automod.js
@@ -390,7 +390,7 @@ ZoomBoost/
 
 ### Emoji Configuration
 
-ZoomBoost uses a custom emoji system. Edit `emojis.json` to customize:
+Onyx Applications uses a custom emoji system. Edit `emojis.json` to customize:
 
 ```json
 {
@@ -400,6 +400,7 @@ ZoomBoost uses a custom emoji system. Edit `emojis.json` to customize:
     "ticket": "🎫"
 }
 ```
+
 ---
 
 ## 🔒 Security & Privacy
@@ -453,7 +454,7 @@ Ensure your bot has these permissions:
 
 ## 💎 Purchase & Support
 
-### Get ZoomBoost Today
+### Get Onyx Applications Today
 
 **Pricing**: Contact for pricing information
 
@@ -472,14 +473,6 @@ Ensure your bot has these permissions:
 3. **Discuss Requirements**: Tell us about your needs
 4. **Complete Payment**: Secure payment via PayPal or Crypto
 5. **Receive Access**: Get immediate access to files and support
-
-### Support Channels
-
-- 💬 **Discord Server**: [Join Here](https://discord.gg/kSQsrkbxU5)
-- 👤 **Direct Contact**: DM `Xoxo Pistolas`
-- 📧 **Response Time**: Typically within 24 hours
-- 🆘 **Premium Support**: Available for customers
-
 ---
 
 ## 📜 License
@@ -510,15 +503,6 @@ Purchasing this bot grants you a **single-server license**. For multi-server lic
 
 ---
 
-## 🙏 Acknowledgments
-
-Special thanks to:
-- Discord.js team for the amazing library
-- Our beta testers and early adopters
-- The Discord developer community
-
----
-
 ## 📊 Stats
 
 ![Discord.js](https://img.shields.io/badge/discord.js-v14.24.2-blue?style=flat-square)
@@ -530,17 +514,14 @@ Special thanks to:
 
 <div align="center">
 
-### ⭐ If you purchased ZoomBoost, join our community!
+### ⭐ If you purchased Onyx Applications, join our community!
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kSQsrkbxU5)
 
 **Made with ❤️ by [Onyx Applications](https://discord.gg/kSQsrkbxU5)**
-
-*Professional Discord Bot Solutions*
 
 ---
 
 © 2025 Onyx Applications. All rights reserved.
 
 </div>
-
