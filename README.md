@@ -1,273 +1,560 @@
 <div align="center">
 
-# 🚀 ZoomBoost Discord Bot System
+# 🚀 ZoomBoost - Advanced Discord Bot
 
-### *The Ultimate Professional Discord Bot Solution*
+### *Professional All-in-One Discord Management Solution*
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ms7vuNJQsq)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/yourusername/zoomboost-bot?style=for-the-badge)](https://github.com/luckav-dev/BotTickets)
-[![Forks](https://img.shields.io/github/forks/yourusername/zoomboost-bot?style=for-the-badge)](https://github.com/luckav-dev/BotTickets/network/members)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kSQsrkbxU5)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/luckav-dev)
+[![Node.js](https://img.shields.io/badge/Node.js-16%2B-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)](LICENSE)
 
-*Transform your Discord server into a professional business hub with our enterprise-grade bot system*
+**Built by [Onyx Applications](https://discord.gg/kSQsrkbxU5) | Developed by Xoxo Pistolas**
 
-[🎯 **Get Started**](#-quick-start) • [✨ **Features**](#-features) • [💬 **Support**](#-support--purchase) • [📚 **Documentation**](#-documentation)
+[Features](#-key-features) • [Installation](#-installation) • [Configuration](#-configuration) • [Commands](#-commands) • [Purchase](#-purchase--support)
+
+---
 
 </div>
 
+## 📋 Overview
+
+**ZoomBoost** is a premium, feature-rich Discord bot designed for professional server management. Built with Discord.js v14 and leveraging the latest Discord features including **Container Components V2**, ZoomBoost provides an all-in-one solution for community management, moderation, engagement, and monetization.
+
+### 🎯 Why ZoomBoost?
+
+- ✨ **Modern UI/UX** - Beautiful container-based interfaces with advanced Discord components
+- 🔧 **Fully Configurable** - Extensive configuration system accessible entirely through Discord
+- 💼 **Professional Grade** - Enterprise-level features for serious community management
+- 🛡️ **Security First** - Advanced moderation and auto-mod capabilities
+- 💰 **Monetization Ready** - Built-in payment processing for server monetization
+- 📊 **Comprehensive Logging** - Detailed audit logs with rich information
+- 🎨 **Customizable** - Extensive customization options for every feature
+
 ---
 
-## 🌟 Why Choose ZoomBoost?
-
-ZoomBoost isn't just another Discord bot – it's a complete business solution designed for servers that demand professionalism, reliability, and advanced functionality. Whether you're running a marketplace, support server, or community hub, ZoomBoost delivers enterprise-grade features that scale with your needs.
-
-### 🎯 Perfect For:
-- 🛒 **Discord Shops Servers** - Complete ticket system for sales and support
-
----
-
-## ✨ Features
-
-<table>
-<tr>
-<td width="50%">
+## ✨ Key Features
 
 ### 🎫 Advanced Ticket System
-- **Custom Forms** - Tailored intake forms for different ticket types
-- **Smart Categories** - Purchase, Support, Partnerships, and more
-- **Auto-Transcripts** - Complete conversation history
-- **Rate Limiting** - Prevent spam and abuse
-- **Staff Management** - Granular permission controls
+- **Multi-Category Support** - Create unlimited ticket categories with custom forms
+- **Priority System** - 4-tier priority system with visual indicators
+- **Staff Management** - Claim, transfer, and manage tickets efficiently
+- **Transcript Generation** - Automatic HTML transcripts with full conversation history
+- **Rating System** - Collect user feedback after ticket closure
+- **Inactivity Auto-Close** - Automatic closure for inactive tickets
+- **Ping Protection** - Prevents ticket ping spam with warnings
+- **Rich Embeds** - Beautiful container-based interfaces
 
-### 📊 Comprehensive Logging
-- **Real-time Monitoring** - Track all server activities
-- **Categorized Logs** - Separate channels for different events
-- **Rich Embeds** - Beautiful, informative log messages
-- **Advanced Filtering** - Ignore bots, webhooks, and system messages
-- **Audit Trail** - Complete history of server changes
-</td>
-<td width="50%">
+### 🛡️ Auto-Moderation System
+- **Spam Detection** - Advanced message frequency and duplicate content detection
+- **Link Filtering** - Whitelist/blacklist system for URLs
+- **Bad Word Filter** - Customizable word filter with wildcard support
+- **Caps Lock Control** - Limit excessive uppercase usage
+- **Emoji Spam Prevention** - Control excessive emoji usage
+- **Punishment System** - Configurable actions (warn, timeout, kick, ban)
+- **Threshold System** - Progressive punishment based on violation count
+- **Whitelist Support** - Exempt specific roles, channels, or users
 
-### 🛡️ Moderation Suite
-- **Smart Commands** - Ban, kick, timeout, warn with reasons
-- **Bulk Actions** - Mass delete messages and manage users
-- **Auto-Moderation** - Ping warning system with escalating penalties
-- **Member Tracking** - Join/leave monitoring with detailed logs
-- **Role Management** - Automated role assignment and tracking
+### 🎭 Auto-Role System
+- **Join Roles** - Automatic role assignment on member join
+- **Reaction Roles** - Role assignment via message reactions
+- **Button Roles** - Modern button-based role selection
+- **Time-Based Roles** - Assign roles after specific duration
+- **Multiple Configurations** - Unlimited role setups per server
+- **Role Limits** - Control max roles per user
+- **Persistent** - Survives bot restarts
 
-### 🎁 Engagement Tools
-- **Giveaway System** - Automated contests and prize distribution
-- **Rich Presence** - Custom bot status with rotation
-- **Statistics Tracking** - Server growth and activity metrics
-- **Custom Branding** - Personalized colors, messages, and embeds
-- **Multi-language Support** - Localization ready
+### 💰 Payment System
+- **Multiple Payment Methods** - PayPal and Litecoin (LTC) support
+- **Transaction Management** - Track pending, completed, and cancelled transactions
+- **Staff Wallets** - Individual payment method configuration per staff member
+- **QR Code Generation** - Automatic QR codes for crypto payments
+- **Real-Time Tracking** - Live transaction status updates
+- **Payment History** - Comprehensive transaction history and statistics
+- **Automated Confirmation** - Reduce manual payment verification
 
-</td>
-</tr>
-</table>
+### 📊 Advanced Logging System
+- **Comprehensive Coverage** - 20+ event types logged
+- **Rich Information** - Detailed context for every action
+- **Executor Tracking** - Identify who performed actions via audit logs
+- **Discord Timestamps** - Relative and absolute time formats
+- **Message Tracking** - Content, attachments, embeds, and metadata
+- **Member Events** - Join, leave, updates with account age info
+- **Channel Management** - Track all channel and role changes
+- **Voice Activity** - Monitor voice state changes and sessions
+- **Invite Tracking** - Log invite creation and deletion
+- **Custom Emojis & Stickers** - Track emoji/sticker management
+
+### 🎉 Giveaway System
+- **Flexible Duration** - Support for any time duration
+- **Multiple Winners** - Select multiple winners per giveaway
+- **Entry Requirements** - Role requirements, invite requirements, etc.
+- **Participant Tracking** - Track entries and prevent duplicates
+- **Automatic Winner Selection** - Random selection with fair distribution
+- **End Notifications** - Notify winners automatically
+- **Statistics** - Track giveaway metrics and history
+
+### 💡 Suggestions System
+- **Voting System** - Upvote/downvote functionality
+- **Category Organization** - Organize suggestions by category
+- **Status Management** - Approve, deny, or mark as implemented
+- **Staff Actions** - Dedicated staff controls for suggestion management
+- **Anonymous Options** - Support for anonymous suggestions
+- **Voting Restrictions** - Prevent vote manipulation
+
+### 📊 Poll System
+- **Multiple Options** - Support for 2-10 poll options
+- **Vote Tracking** - Real-time vote count updates
+- **Anonymous Polls** - Optional anonymous voting
+- **Multiple Votes** - Allow users to select multiple options
+- **Duration Control** - Set poll expiration time
+- **Results Display** - Beautiful visual representation of results
+
+### 📨 Custom Commands
+- **DM Commands** - Create and manage custom DM commands
+- **Prefix Commands** - Traditional prefix-based command system
+- **Say Command** - Advanced announcement system with containers and buttons
+- **Message Builder** - Visual message builder with preview
+- **Image Support** - Add images to custom messages
+- **Button Support** - Add up to 5 custom buttons with URLs
+
+### 🎁 Invite Tracking
+- **Detailed Statistics** - Track who invited who
+- **Real Invites** - Differentiate between fake/left members
+- **Leaderboards** - Invite leaderboards and rankings
+- **Rewards** - Automatic role rewards for invite milestones
+
+### 👋 Welcome System
+- **Custom Messages** - Fully customizable welcome messages
+- **Role Assignment** - Auto-assign roles on join
+- **Channel Targeting** - Send welcomes to specific channels
+- **Member Count** - Display current member count
+- **Beautiful Containers** - Modern container-based welcome messages
+
+### 🔨 Moderation Commands
+- **Ban/Unban** - Advanced ban management with reasons
+- **Timeout** - Temporary mute functionality
+- **Clear** - Bulk message deletion
+- **Kick** - Remove problematic members
+- **Nuke** - Channel clone and cleanup
+- **Role Management** - Assign/remove roles with logging
+
+### ⚙️ Configuration System
+- **In-Discord Config** - Configure everything without touching files
+- **Visual Interface** - Beautiful container-based configuration menus
+- **Category Organization** - Organized into logical sections
+- **Live Updates** - Changes take effect immediately
+- **Per-System Config** - Independent configuration for each system
+- **Reset Options** - Easily reset to defaults
 
 ---
 
-## 🎛️ System Architecture
+## 🔧 Requirements
 
-<details>
-<summary><b>📁 Project Structure</b></summary>
+Before installing ZoomBoost, ensure you have the following:
+
+- **Node.js** - Version 16.0.0 or higher ([Download](https://nodejs.org/))
+- **Discord Bot** - A Discord bot application with the following:
+  - Message Content Intent
+  - Server Members Intent
+  - Presence Intent (optional)
+- **Discord.js v14** - Automatically installed via npm
+- **Operating System** - Windows, Linux, or macOS
+
+---
+
+## 📦 Installation
+
+### 1. Purchase ZoomBoost
+
+Contact us to purchase your license:
+- **Discord Server**: [Join Onyx Applications](https://discord.gg/kSQsrkbxU5)
+- **Direct Contact**: DM `Xoxo Pistolas` on Discord
+
+### 2. Extract Files
+
+After purchase, extract the ZoomBoost files to your desired directory.
+
+### 3. Install Dependencies
+
+Open a terminal in the bot directory and run:
+
+```bash
+npm install
+```
+
+### 4. Configure Bot Token
+
+1. Go to the [Discord Developer Portal](https://discord.com/developers/applications)
+2. Create a new application or select your existing bot
+3. Go to the **Bot** section
+4. Copy your bot token
+5. Open `config.json` and replace `YOUR_BOT_TOKEN` with your actual token:
+
+```json
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "guildId": "YOUR_BOT_GUILD_ID",
+    "clientId": "YOUR_BOT_CLIENT_ID"
+}
+```
+
+### 5. Invite Your Bot
+
+Use this URL template to invite your bot (replace `YOUR_CLIENT_ID`):
 
 ```
-├── 📂 commands/
-│   ├── 📂 basic/          # Essential moderation commands
-│   └── 📂 advanced/       # Premium features and panels
-├── 📂 events/             #  event handlers
-├── 📂 utils/              # Core system utilities
-├── 📂 database/           # Data storage and backups
-├── 📂 logs/               # System and error logging
-├── 📂 transcripts/        # Ticket conversation archives
-└── 📄 config.json         # Main configuration file
+https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot%20applications.commands
 ```
 
-</details>
+### 6. Deploy Commands
 
-<details>
-<summary><b>⚙️ Core Components</b></summary>
+Deploy slash commands to your Discord server:
 
-| Component | Description | Key Features |
-|-----------|-------------|-------------|
-| **Ticket Manager** | Advanced ticket system | Custom forms, auto-close, transcripts |
-| ** Logger** | Comprehensive logging | Real-time events, rich embeds, filtering |
-| **Permission Checker** | Role-based access | Staff/admin controls, command restrictions |
-| **Embed Builder** | Dynamic message creation | Branded embeds, custom colors, templates |
-| **Giveaway Manager** | Contest automation | Scheduled draws, winner selection, notifications |
-| **Ping Warning System** | Anti-spam protection | Progressive penalties, auto-mute, cooldowns |
+```bash
+npm run deploy
+```
 
-</details>
+### 7. Start the Bot
+
+Run the bot with:
+
+```bash
+npm start
+```
+
+For development with auto-reload:
+
+```bash
+npm run dev
+```
+
+---
+
+## ⚙️ Configuration
+
+### Initial Setup
+
+1. **Run `/configbot`** in your Discord server
+2. Navigate through the interactive menus
+3. Configure each system according to your needs
+
+### Configuration Categories
+
+#### 🎫 Ticket System
+- **Enable/Disable** - Toggle the entire ticket system
+- **Categories** - Configure ticket categories (Support, Purchase, Report, etc.)
+- **Staff Roles** - Set roles that can manage tickets
+- **Logs Channel** - Set where ticket logs are sent
+- **Transcript Channel** - Set where ticket transcripts are saved
+- **Notifications** - Configure ticket notifications
+- **Priority System** - Enable/disable priority indicators
+- **Rating System** - Enable/disable post-ticket ratings
+
+#### 🛡️ Auto-Moderation
+- **Spam Control** - Configure message frequency limits
+- **Link Filter** - Whitelist/blacklist URLs
+- **Bad Words** - Add words to filter
+- **Caps Control** - Set max percentage of caps
+- **Emoji Spam** - Set max emoji count
+- **Punishments** - Configure punishment actions and thresholds
+- **Whitelist** - Exempt roles/channels from auto-mod
+
+#### 🎭 Auto-Roles
+- **Join Roles** - Roles assigned when members join
+- **Reaction Roles** - Configure reaction role messages
+- **Button Roles** - Configure button role panels
+- **Time-Based** - Roles assigned after X duration
+- **Settings** - Max roles per user, persistence options
+
+#### 💡 Suggestions
+- **Channel** - Set suggestions channel
+- **Voting** - Enable/disable voting
+- **Anonymous** - Allow anonymous suggestions
+- **Categories** - Configure suggestion categories
+- **Staff Roles** - Who can manage suggestions
+
+#### 📊 Polls
+- **Channel** - Default poll channel
+- **Voting Settings** - Anonymous, multiple votes, etc.
+- **Display Options** - Visual customization
+- **Duration Limits** - Min/max poll duration
+- **Archive** - Archive ended polls
+
+#### 📝 Logging
+- **Log Channel** - Set main log channel
+- **Event Types** - Choose which events to log
+- **Detailed Logging** - Enable/disable detailed logs
+
+---
+
+## 📚 Commands
+
+### 🎫 Ticket Commands
+
+| Command | Description | Usage |
+|---------|-------------|-------|
+| `/ticketspanel` | Create ticket panel | `/ticketspanel` |
+| `/ticketstats` | View ticket statistics | `/ticketstats` |
+
+### 🎉 Engagement Commands
+
+| Command | Description | Usage |
+|---------|-------------|-------|
+| `/giveaway` | Create a giveaway | `/giveaway` |
+| `/poll` | Create a poll | `/poll [question] [options]` |
+| `/suggest` | Submit a suggestion | `/suggest [content]` |
+
+### 💰 Payment Commands
+
+| Command | Description | Usage |
+|---------|-------------|-------|
+| `/paymentsauto` | Manage automated payments | `/paymentsauto` |
+| `/viewwallets` | View staff payment wallets | `/viewwallets` |
+
+### 🔨 Moderation Commands
+
+| Command | Description | Usage |
+|---------|-------------|-------|
+| `/ban` | Ban a user | `/ban [user] [reason]` |
+| `/unban` | Unban a user | `/unban [user_id] [reason]` |
+| `/timeout` | Timeout a user | `/timeout [user] [duration] [reason]` |
+| `/kick` | Kick a user | `/kick [user] [reason]` |
+| `/clear` | Clear messages | `/clear [amount]` |
+| `/nuke` | Nuke a channel | `/nuke` |
+| `/role` | Manage roles | `/role [user] [role]` |
+
+### 📨 Custom Commands
+
+| Command | Description | Usage |
+|---------|-------------|-------|
+| `/say` | Create custom message | `/say` |
+| `/commandsdm` | Manage DM commands | `/commandsdm` |
+| `/prefixmessage` | Manage prefix commands | `/prefixmessage` |
+
+### ⚙️ Configuration Commands
+
+| Command | Description | Usage |
+|---------|-------------|-------|
+| `/configbot` | Main configuration menu | `/configbot` |
+| `/automod` | Auto-moderation settings | `/automod` |
+| `/autorole` | Auto-role settings | `/autorole` |
+
+### 📊 Information Commands
+
+| Command | Description | Usage |
+|---------|-------------|-------|
+| `/info` | Get user/server info | `/info [user]` |
+| `/invites` | Check invite stats | `/invites [user]` |
+| `/testwelcome` | Test welcome message | `/testwelcome` |
+
+---
+
+## 🗂️ File Structure
+
+```
+ZoomBoost/
+├── commands/               # Slash command files
+│   ├── basic/             # Basic moderation commands
+│   ├── automod.js
+│   ├── autorole.js
+│   ├── configbot.js
+│   ├── giveaway.js
+│   └── ...
+├── modules/               # Feature modules
+│   ├── ticketSystem.js
+│   ├── autoModSystem.js
+│   ├── paymentSystem.js
+│   └── ...
+├── utils/                 # Utility functions
+│   ├── emojiManager.js
+│   ├── logger.js
+│   └── databaseManager.js
+├── configs/               # Configuration files
+│   ├── general.json
+│   ├── tickets.json
+│   └── ...
+├── databases/             # Database files (auto-created)
+│   ├── tickets.json
+│   ├── suggestions.json
+│   └── ...
+├── transcripts/           # Ticket transcripts
+├── config.json           # Bot token configuration
+├── index.js              # Main bot file
+└── package.json          # Dependencies
+```
 
 ---
 
 ## 🎨 Customization
 
-### 🎯 Ticket Categories
-Create unlimited ticket types with custom forms:
+### Emoji Configuration
 
-- **Purchase Tickets** - Product inquiries and sales
-- **Technical Support** - Issue resolution and troubleshooting  
-- **Partnership Requests** - Business collaboration inquiries
-- **Feature Requests** - Community suggestions and feedback
-- **General Inquiries** - Catch-all for other topics
+ZoomBoost uses a custom emoji system. Edit `emojis.json` to customize:
 
-### 🎨 Visual Branding
-- Custom color schemes for all embeds
-- Personalized bot presence and status
-- Branded footer text and author information
-- Custom emoji integration throughout the system
-
-### 📊 Logging Configuration
-Monitor everything that matters:
-
-| Category | Events Tracked |
-|----------|---------------|
-| **Members** | Joins, leaves, role changes, profile updates |
-| **Messages** | Edits, deletions, reactions, pins |
-| **Moderation** | Bans, kicks, timeouts, warnings |
-| **Voice** | Channel activity, mute/unmute, streaming |
-| **Server** | Channel changes, role updates, emoji management |
-
----
-
-## 📈 Performance & Reliability
-
-- **⚡ Optimized Performance** - Efficient database operations and memory management
-- **🔄 Auto-Recovery** - Built-in error handling and automatic restarts
-- **💾 Data Backup** - Automated daily backups with configurable retention
-- **📊 Resource Monitoring** - Real-time performance metrics and logging
-- **🔒 Security First** - Rate limiting, permission validation, and audit trails
-
----
-
-## 🛠️ Advanced Configuration
-
-<details>
-<summary><b>🔧 Environment Setup</b></summary>
-
-
-<details>
-<summary><b>📊 Database Management</b></summary>
-
-### Backup Strategy
-- Automatic daily backups
-- 30-day retention policy
-- Compressed storage format
-- Manual backup commands available
-
-### Data Structure
 ```json
 {
-  "tickets": "Active and archived ticket data",
-  "users": "Member profiles and statistics", 
-  "giveaways": "Contest entries and winners",
-  "warnings": "Moderation history and penalties",
-  "stats": "Server analytics and metrics"
+    "success": "✅",
+    "error": "❌",
+    "loading": "⏳",
+    "ticket": "🎫"
 }
 ```
 
-</details>
+### Color Schemes
+
+Modify container colors in configuration files:
+
+```json
+{
+    "colors": {
+        "primary": "#5865F2",
+        "success": "#57F287",
+        "error": "#ED4245"
+    }
+}
+```
 
 ---
 
-## 🎯 Commands Overview
+## 🔒 Security & Privacy
 
-### 🔨 Moderation Commands
-| Command | Description | Permission |
-|---------|-------------|------------|
-| `/ban` | Ban a member with reason | Admin/Staff |
-| `/kick` | Remove member from server | Admin/Staff |
-| `/timeout` | Temporarily mute member | Staff |
-| `/warn` | Issue warning to member | Staff |
-| `/clear` | Bulk delete messages | Staff |
-
-### 🎫 Ticket Commands  
-| Command | Description | Permission |
-|---------|-------------|------------|
-| `/panelticket` | Create ticket panel | Admin |
-| `/ticketstats` | View ticket statistics | Staff |
-| `/configbot` | Bot configuration panel | Admin |
-
-### 🎁 Utility Commands
-| Command | Description | Permission |
-|---------|-------------|------------|
-| `/giveaway` | Manage server giveaways | Admin/Staff |
-| `/embed` | Create custom embeds | Staff |
-| `/info` | Server and bot information | Everyone |
+- **Encrypted Storage** - Sensitive data is stored securely
+- **Permission Checks** - All commands verify user permissions
+- **Audit Logging** - Complete audit trail for all actions
+- **Rate Limiting** - Built-in rate limiting prevents abuse
+- **No Data Collection** - Your data stays on your server
 
 ---
 
-## 🔐 Security Features
+## 🐛 Troubleshooting
 
-- **🛡️ Permission Validation** - Multi-layer access control
-- **⏱️ Rate Limiting** - Prevent spam and abuse
-- **📝 Audit Logging** - Complete action history
-- **🔒 Data Encryption** - Secure storage of sensitive information
-- **🚫 Anti-Abuse** - Automated detection and prevention
+### Bot Won't Start
+
+1. Check Node.js version: `node --version`
+2. Reinstall dependencies: `npm install`
+3. Verify bot token in `config.json`
+4. Check console for error messages
+
+### Commands Not Showing
+
+1. Ensure bot has `applications.commands` scope
+2. Run `npm run deploy` again
+3. Wait up to 1 hour for Discord to sync commands
+4. Try re-inviting the bot
+
+### Database Errors
+
+The bot automatically creates databases on startup. If you encounter errors:
+
+1. Delete the `databases` folder
+2. Restart the bot
+3. Databases will be recreated automatically
+
+### Permission Errors
+
+Ensure your bot has these permissions:
+- Administrator (recommended) or:
+- Manage Channels
+- Manage Roles
+- Manage Messages
+- Read Messages
+- Send Messages
+- Embed Links
+- Attach Files
+- Use External Emojis
 
 ---
 
-## 💬 Support & Purchase
+## 💎 Purchase & Support
+
+### Get ZoomBoost Today
+
+**Pricing**: Contact for pricing information
+
+**What's Included**:
+- ✅ Full bot source code
+- ✅ Lifetime updates
+- ✅ Priority support
+- ✅ Custom configuration assistance
+- ✅ Documentation & guides
+- ✅ Community access
+
+### How to Purchase
+
+1. **Join Our Discord**: [Onyx Applications](https://discord.gg/kSQsrkbxU5)
+2. **Open a Ticket**: Create a purchase ticket
+3. **Discuss Requirements**: Tell us about your needs
+4. **Complete Payment**: Secure payment via PayPal or Crypto
+5. **Receive Access**: Get immediate access to files and support
+
+### Support Channels
+
+- 💬 **Discord Server**: [Join Here](https://discord.gg/kSQsrkbxU5)
+- 👤 **Direct Contact**: DM `Xoxo Pistolas`
+- 📧 **Response Time**: Typically within 24 hours
+- 🆘 **Premium Support**: Available for customers
+
+---
+
+## 📜 License
+
+This is commercial software. All rights reserved.
+
+- ❌ **No Redistribution** - Do not share, resell, or redistribute
+- ❌ **No Public Hosting** - For private server use only
+- ✅ **Modifications Allowed** - Customize for your needs
+- ✅ **Commercial Use** - Use in monetized servers
+
+Purchasing this bot grants you a **single-server license**. For multi-server licenses, contact us.
+
+---
+
+## 👨‍💻 Developer
+
+**Developed by Xoxo Pistolas**
+- GitHub: [@luckav-dev](https://github.com/luckav-dev)
+- Discord: [Onyx Applications](https://discord.gg/kSQsrkbxU5)
+
+**Built with**:
+- [Discord.js v14](https://discord.js.org/)
+- [Node.js](https://nodejs.org/)
+- Container Components V2
+- Express.js
+- Canvas API
+
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to:
+- Discord.js team for the amazing library
+- Our beta testers and early adopters
+- The Discord developer community
+
+---
+
+## 📊 Stats
+
+![Discord.js](https://img.shields.io/badge/discord.js-v14.24.2-blue?style=flat-square)
+![Node.js](https://img.shields.io/badge/node.js-16%2B-green?style=flat-square)
+![License](https://img.shields.io/badge/license-Commercial-red?style=flat-square)
+![Maintenance](https://img.shields.io/badge/Maintained-Yes-success?style=flat-square)
+
+---
 
 <div align="center">
 
-### 🛒 **Ready to Transform Your Server?**
+### ⭐ If you purchased ZoomBoost, join our community!
 
-**Get ZoomBoost today and experience the difference professional  bot management makes.**
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kSQsrkbxU5)
 
-[![Join Discord](https://img.shields.io/badge/💬_Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ms7vuNJQsq)
+**Made with ❤️ by [Onyx Applications](https://discord.gg/kSQsrkbxU5)**
 
-**💰 Competitive Pricing • 🚀 Instant Setup • 🛠️ Full Support**
-
-*Contact us on Discord for pricing, demos, and custom solutions*
-
-</div>
-
-### 🤝 What You Get:
-- ✅ Complete bot source code
-- ✅ Full configuration documentation
-- ✅ Installation and setup support
-- ✅ 30 days of technical assistance
-- ✅ Future updates and improvements
-- ✅ Custom branding options
-
-### 💎 Enterprise Solutions:
-- 🏢 Custom feature development
-- 🔧 Dedicated setup assistance  
-- 📞 Priority support channels
-- 🎨 Personalized branding packages
-- 📊 Advanced analytics integration
+*Professional Discord Bot Solutions*
 
 ---
 
-## 🌟 Community
-
-<div align="center">
-
-**Join thousands of satisfied customers using ZoomBoost**
-
-[![Discord Members](https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&logo=discord&logoColor=white&label=Community)](https://discord.gg/ms7vuNJQsq)
-
-</div>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**Made with ❤️ by [XoXo Pistol](https://discord.gg/ms7vuNJQsq)**
-
-*Transforming Discord servers one bot at a time*
-
-[![Discord](https://img.shields.io/badge/Contact_Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ms7vuNJQsq)
+© 2025 Onyx Applications. All rights reserved.
 
 </div>
